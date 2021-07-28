@@ -1,7 +1,7 @@
  Pod::Spec.new do |s|
 
-  s.name         = "SwiftTools"
-  s.version      = '0.0.1'
+  s.name         = "MNSwiftTools"
+  s.version      = '0.0.2'
   s.summary      = "工具"
   s.description  = <<-DESC
                     测试
